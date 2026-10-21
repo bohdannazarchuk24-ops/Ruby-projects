@@ -1,0 +1,5 @@
+INFO start
+ERROR disk
+WARN x
+ERROR net
+INFO end
